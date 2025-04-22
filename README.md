@@ -1,1 +1,1 @@
-# User-Behavior-Analysis-for-Streaming-Platform-Retention
+# User Behavior Analysis for Streaming Platform Retention
